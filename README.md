@@ -1,6 +1,6 @@
-# Scrimba Frontend Career Path - (Momentum Chrome Extension - Module 07)
+# Scrimba Frontend Career Path - (Virtual Business Card - Module 11)
 
-This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Game of War)](https://scrimba.com/learn/frontend).
+This is a solution to the [Scrimba Frontend Career Path - (Module 11-React/Virtual Business Card)](https://scrimba.com/learn/frontend).
 
 ## Table of contents
 
@@ -21,21 +21,19 @@ This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Game of
 
 ### The challenge
 
-Clone of the famous chrome extension "momentum"
+Without any tutorial (no video solution to follow along) I should be able to follow the figma files and create a fully functional React app on my machine, that works as a virtual business card.
 
 After this Challenge I should be able to Code/Understand:
 
-- Clients/Servers
-- Requests/Response
-- JSON
-- fetch/.then()
-- Requests(methods, headers, body, URL)
-- REST API Design (params, query)
-- Async Javascript (callbacks, promises, async/await)
+- React set up
+- Linking CSS on React, Googel fonts on React and FontAwesome Icons on React
+- npm run build
+- Netlify react Deployment
+- Work with Figma
 
 ### Screenshot
 
-![](./imagem.png)
+![](./solution.png)
 
 ### Links
 
